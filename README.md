@@ -1,3 +1,3 @@
 # git-demo
 
-some contecte
+some contect
